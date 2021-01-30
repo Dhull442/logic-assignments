@@ -12,5 +12,5 @@ ocamlc formula.ml bdd.mli bdd.ml A2.ml
 To run the package simply execute `a.out` file generated. If you wish to compile part of the assignment, you can change the names in the command accordingly.
 
 # Submission Instrution 
-Submit one .zip file to the programming assignment named 'A2: BDD' on gradescope.com. The name of the file should be `<yourEntryNumber>.zip`. On unzipping the file, it should produce files `bdd.ml` and `A2.ml`. 
+Submit one .zip file to the programming assignment named 'A2: BDD' on gradescope.com. The name of the file should be `<yourEntryNumber>.zip`. On unzipping the file, it should produce files `bdd.ml`, `bdd.mli` and `A2.ml`. 
 
